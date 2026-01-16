@@ -2,9 +2,9 @@
 
  ### 🟢 FASE 1 — "MVP"
 
-> 🎯 Objetivo: _"Generar cancioneros sin dolor, desde texto simple a PDF."_
+> Objetivo: _"Generar cancioneros sin dolor, desde texto simple a PDF."_
 
-### 🔜 1.1 Base del proyecto
+### 1.1 Base del proyecto
 
  - Repo en GitHub
 
@@ -15,11 +15,11 @@
  - Markdown como fuente
 
 
-### 🔜 1.2 Parser básico
+### 1.2 Parser básico
 
  - Convertir Markdown → HTML estructurado
 
-### 🔜 1.3 Render PDF estable
+### 1.3 Render PDF estable
 
  - Estilos CSS de cancionero clásico
 
@@ -33,9 +33,9 @@
 
 ## 🟡 FASE 2 — Canciones “inteligentes”
 
-> 🎯 Objetivo:  _"Que el sistema piense por ti."_
+> Objetivo:  _"Que el sistema piense por ti."_
 
-### 🎸 2.1 Acordes inline
+### 2.1 Acordes inline
 
 - Que se renderice bien. 
 ~~~
@@ -43,7 +43,7 @@ Permitir esto:
 
 Y [A]así, de pronto un [Bm]día
 ~~~
-### 🔁 2.2 Transposición
+### 2.2 Transposición
 
 - Subir / bajar tono
 
@@ -51,7 +51,7 @@ Y [A]así, de pronto un [Bm]día
 
 - Mantener calidad musical
 
-🧠 2.3 Normalización
+2.3 Normalización
 
 - Detectar errores comunes (H → B)
 
@@ -62,9 +62,9 @@ Y [A]así, de pronto un [Bm]día
 
 ## 🟠 FASE 3 — Editor visual
 
-> 🎯 Objetivo: _"Dejar de escribir Markdown si no quieres."_
+> Objetivo: _"Dejar de escribir Markdown si no quieres."_
 
-### 🖊️ 3.1 Editor web
+### 3.1 Editor web
 
 - Campo de letra
 
@@ -72,7 +72,7 @@ Y [A]así, de pronto un [Bm]día
 
 - Vista previa en tiempo real
 
-### 🎨 3.2 Temas visuales
+### 3.2 Temas visuales
 
 - Clásico (iglesia)
 
@@ -80,7 +80,7 @@ Y [A]así, de pronto un [Bm]día
 
 - Banda / ensamble
 
-### 📤 3.3 Exportación
+### 3.3 Exportación
 
 - PDF
 
@@ -92,9 +92,9 @@ Y [A]así, de pronto un [Bm]día
 
 ## 🔵 FASE 4 — Cancionero completo
 
-> 🎯 Objetivo: _"Proyecto serio, usable en escenarios reales."_
+> Objetivo: _"Proyecto serio, usable en escenarios reales."_
 
-### 📚 4.1 Colecciones
+### 4.1 Colecciones
 
 - Varias canciones
 
@@ -102,7 +102,7 @@ Y [A]así, de pronto un [Bm]día
 
 - Orden personalizado
 
-### 🔍 4.2 Búsqueda
+###  4.2 Búsqueda
 
 - Por título
 
@@ -110,7 +110,7 @@ Y [A]así, de pronto un [Bm]día
 
 - Por tono
 
-### ☁️ 4.3 Almacenamiento
+### 4.3 Almacenamiento
 
 - Local
 

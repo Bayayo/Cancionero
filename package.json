@@ -1,0 +1,26 @@
+{
+  "name": "cancionero",
+  "version": "1.0.0",
+  "description": "Convertidor de Archivos markdown a PDF, con formato para Partitura de Guitarra.",
+  "homepage": "https://github.com/Bayayo/Cancionero#readme",
+  "bugs": {
+    "url": "https://github.com/Bayayo/Cancionero/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bayayo/Cancionero.git"
+  },
+  "license": "MIT",
+  "author": "Bayayo",
+  "type": "commonjs",
+  "main": "src/index.js",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix ./front-end run dev",
+    "build": "npm --prefix ./front-end run build",
+    "lint": "npm --prefix ./front-end run lint"
+  }
+}
+
+
+

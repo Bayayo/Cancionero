@@ -7,6 +7,7 @@ export function SongViewer({ song }: { song: Song }) {
       <h1>{song.title}</h1>
       <h4>{song.author}</h4>
 
+      <div className='cont_lyric'>
       {song.lines.map((line, i) => (
         <div key={i} className="line">
           {line.segments.map((seg, j) => (
@@ -15,8 +16,10 @@ export function SongViewer({ song }: { song: Song }) {
               <span className="lyric">{seg.text}</span>
             </span>
           ))}
-        </div>
+          </div>
+        
       ))}
+      </div>
     </div>
   );
 }

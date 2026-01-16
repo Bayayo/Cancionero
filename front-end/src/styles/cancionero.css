@@ -1,0 +1,37 @@
+.song {
+  font-family: Georgia, serif;
+}
+
+.song h1 {
+  text-align: center;
+  margin-bottom: 0;
+}
+
+.song h4 {
+  text-align: center;
+  margin-top: 4px;
+  font-weight: normal;
+}
+
+.line {
+  position: relative;
+  margin-bottom: 14px;
+}
+
+.segment {
+  position: relative;
+  display: inline-block;
+}
+
+.chord {
+  position: absolute;
+  top: -2.2em;
+  font-weight: bold;
+  font-size: 0.7em;
+  color: #c5c5c5;
+  font-family: sans-serif;
+}
+
+.lyric {
+  white-space: pre;
+}

@@ -1,5 +1,5 @@
 import type { Song } from '../types/song';
-import '../assets/cancionero.css';
+import '../styles/cancionero.css';
 
 export function SongViewer({ song }: { song: Song }) {
   return (
